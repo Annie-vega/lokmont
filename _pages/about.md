@@ -1,29 +1,20 @@
 ---
 layout: page
 title: About
-image: 12.jpg
+image: leaves.jpg
 ---
-My name is Ben Campbell. I'm an actor and a musician. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Hey there, I'm Annie.               
 
-***
+It is a hard process to try to introduce yourself away from your job, what did you study, where do you live, where are you from or your love life but I would like to share some details about me.​
 
-#### Austin scenester...
-<small>1995 - 2000</small>
+<i>I get easily excited about things around me,</i> I love to notice the beauties of the world around us and take attentive note to the things I'm constantly grateful for. I'm also aware of my privileges and constantly looking for the best possible way to help and give back. I'm lucky enough to have a great support system, a loving family, and a great player #2.
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+<i>One of my biggest motivations in life is to help and give back,</i> that's why I'm committed to helping as much as possible, this include make some hard decisions such as the ones I discuss here. This path of looking for ways to help have been my ultimate "life guide" and the experience have been incredibly rewarding and emotionally challenging.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+<i>I try to be present and conscious about my surroundings,</i> all this ended up with more questions than I could answer, hopefully, this blog can help with some answers and generate even more questions
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
-
-#### La croix you probably...
-<small>2008 - 2015</small>
-
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
-
-***
+If any of these posts make you wonder about the topics, have questions or just want to extra resources, <b>I would love to hear from you</b>
 
 *Thank You for reading!*
 
+![Annie Profile Picture]({{site.baseurl}}/images/pages/Annie profile picture mini.png)
