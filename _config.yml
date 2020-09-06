@@ -1,13 +1,13 @@
 # Site settings
 title: Conversation Starters
-description: Conversation Starters is a blog full of trains of thoughts, memes and deep rabbit holes. In a nutshell.
+description: Conversation Starters is a blog full of trains of thoughts and deep rabbit holes. In a nutshell.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lokmont-jekyll.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner Section
 hero: background.jpg
 hero-title: Conversation Starters
-hero-description: A blog full of trains of thoughts, memes and deep rabbit holes. <br>In a nutshell.
+hero-description: A blog full of trains of thoughts and deep rabbit holes. <br>In a nutshell.
 
 # Author - Creator
 author-name: Annie Vega
