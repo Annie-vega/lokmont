@@ -2,9 +2,11 @@
 layout: post
 title: RetoAceptado
 date: 2020-07-29 03:09:50 +0300
-img: bear.jpg
+img: bear_lowres.jpg
+imghr: bear.jpg
 tags: [Español]
 author: Annie-Vega
+type: Spanish
 ---
 <b>Las ventajas de vivir 6 horas por delante de mi país de origen incluyen que a veces tengo experiencias locas que me cambian la vida, como despertarme un día y descubrir que una revolución sucedió de la noche a la mañana y mis páginas de inicio de redes sociales están llenas de fotos bonitas, mensajes alentadores y muchas de mi amigas enviándome mensajes amorosos, y obvio yo tenía 6 horas para planificar cómo me uniría a esta revolución antes de que alguien se despertara. ¡Los resultados te van a sorprender! </b>
 

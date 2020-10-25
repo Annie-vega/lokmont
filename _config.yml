@@ -43,13 +43,13 @@ instagram: https://www.instagram.com/conversation_starters_blog/
 contact-subtitle: If you have rabbit holes or random thoughts you would like to share with me, this is the right place. <br><br> <b>Thanks for being here.</b> # Title for the subscription form.
 
 # Google Analytics
-google-analytics: 177326782 # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-177326782-2 # Add your identifier. For example UA-99631805-1.
 
 # Newsletter
 mailchimp: "gmail.us17.list-manage.com/subscribe?u=12b5d42ca85bb74eb1c30a7a4&id=a292d64ef4" # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Comment Section (Disqus)
-disqus-identifier: Annie # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: conversationstarters # Add your shortname for Disqus Comment. For example mr-brown
 
 # Build settings
 markdown: kramdown

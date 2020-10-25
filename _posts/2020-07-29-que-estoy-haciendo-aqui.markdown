@@ -2,13 +2,15 @@
 layout: post
 title: ¿Qué estoy haciendo aquí?
 date: 2020-07-29 17:33:28 +0300
-img: pasta.jpg
+img: Pasta_lowres.jpg
+imghr: Pasta.jpg
 tags: Español
 author: Annie-Vega
+type: Spanish
 ---
 <b>Ha pasado un buen tiempo desde que empecé a registrar mis trenes de pensamientos, debates internos profundos e ideas que resonaron conmigo, y aquí estamos, compartiéndolas con algunas fotos bonitas⁰.</b>
 
-![Pasta]({{site.baseurl}}/images/pages/pasta.jpg)
+![Pasta]({{site.baseurl}}/images/pages/Pasta.jpg)
 
 <i>La foto de hoy es un plato de Spaghetti Aglio e Olio, esta fue la cena que mis compañeros de apartamento italianos prepararon y compartieron conmigo porque se me olvidó comer hoy y ellos me cuidaron. Mucho amor para la gente que te cuida y te alimenta.</i>
 

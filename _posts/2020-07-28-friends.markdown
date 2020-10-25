@@ -2,9 +2,11 @@
 layout: post
 title: F・r・i・e・n・d・s
 date: 2020-07-28 03:09:50 +0300
-img: coffee.jpg
+img: coffee_lowres.jpg
+imghr: coffee.jpg
 tags: [English]
 author: Annie-Vega
+type: English
 ---
 <b>Think seriously about friendship is very scary, being critic about the people you are surrounded by is one of the biggest changes you can make in life but is exhausting, nevertheless is a must-do in this path of self discovery and growth</b>
 

@@ -2,9 +2,11 @@
 layout: post
 title: La tóxica
 date: 2020-08-23 03:09:50 +0300
-img: ballons.jpg
+img: ballons_lowres.jpg
+imghr: ballons.jpg
 tags: [Español]
 author: Annie-Vega
+type: Spanish
 ---
 **Recientemente hice una evaluación consiente sobre *mi pasado oscuro* y cómo me relacionaba con las personas a mi alrededor y terminé concluyendo que yo era un gran ejemplo de lo que llaman “la tóxica”, es algo de lo que no me enorgullezco y estoy segura que aún quedan muchos comportamientos tóxicos en mi vida, pero como con todos los aspectos este proceso de descubrimiento y de pensarme seriamente, estoy tratando de mejorarlo con mucha paciencia y mucho autocuidado, una cosa a la vez, un día a la vez.**
 

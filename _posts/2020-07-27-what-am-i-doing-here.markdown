@@ -2,9 +2,11 @@
 layout: post
 title: What am I doing here?
 date: 2020-07-27 03:09:50 +0300
-img: Pasta.jpg
+img: Pasta_lowres.jpg
+imghr: Pasta.jpg
 tags: [English, Introduction]
 author: Annie-Vega
+type: English
 ---
 <b>It's been a long time since I started logging my trains of thoughts, deep internal debates and ideas that resonated with me, and here we are, sharing them with some cute pictures⁰ </b>
 

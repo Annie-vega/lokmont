@@ -2,9 +2,11 @@
 layout: post
 title: ChallengeAccepted
 date: 2020-07-29 03:09:50 +0300
-img: bear.jpg
+img: bear_lowres.jpg
+imghr: bear.jpg
 tags: [English]
 author: Annie-Vega
+type: English
 ---
 <b>The perks of living 6 hours ahead of my home country includes that sometimes I have crazy life changing experiences like waking up one day and found a revolution happened overnight and my social media feeds are full of pretty pictures, uplifting messages and a lot of my girl friends sending me lovely messages, and of course I had 6 hours to plan how would I join that revolution before anyone wake up. The results will shock you! </b>
 

@@ -2,9 +2,11 @@
 layout: post
 title: Feeling uncomfortable
 date: 2020-07-31 03:09:50 +0300
-img: pug.jpg
+img: pug_lowres.jpg
+imghr: pug.jpg
 tags: [English]
 author: Annie-Vega
+type: English
 ---
 <b>Is normal to try avoid the sensation of being uncomfortable, our brain try very hard against it and you may be tired (so am I) to hear people saying you have to leave your comfort zone to be successful or achieve something, but even when I don't agree with the way they present the comfort zone and success (let's talk about that later), I do agree there are benefits on challenging yourself and being uncomfortable from time to time and I would like you to rethink the discomfort in your life and give it a try, but not for the success or being a business owner, you can do it because is a good way to learn about yourself and others.</b>
 

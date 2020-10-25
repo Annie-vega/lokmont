@@ -2,9 +2,11 @@
 layout: post
 title: Altruismo y Filantropía
 date: 2020-08-07 03:09:50 +0300
-img: cat-in-box.jpg
+img: cat-in-box_lowres.jpg
+imghr: cat-in-box.jpg
 tags: [Español]
 author: Annie-Vega
+type: Spanish
 ---
 <b>He estado sumergiéndome seriamente en<b> "hacer el bien" y "ser una buena persona"</b> durante un par de años, creo que este es un ... estilo de vida y una forma de comportarse que funciona muy bien para mí. Me encantaría compartirte algunas de esas ideas y creencias, he estado tratando de definir qué significa hacer el bien y ser bueno, y desarmando algunos mitos y conceptos erróneos sobre la filantropía y el altruismo porque estos están disponibles para todos (no es solo un<b> hobby</b> disponible para Bill Gates y los asistentes a la Met Gala) y todos podemos beneficiarnos de esto. </b>
 

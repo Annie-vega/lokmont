@@ -2,9 +2,11 @@
 layout: post
 title: F・r・i・e・n・d・s
 date: 2020-07-30 03:09:50 +0300
-img: coffee.jpg
+img: coffee_lowres.jpg
+imghr: coffee.jpg
 tags: [Español]
 author: Annie-Vega
+type: Spanish
 ---
 <b>Pensar seriamente en la amistad es muy aterrador, ser crítico con las personas de las que te rodeas es uno de los cambios más grandes que puedes hacer en la vida, pero es agotador, sin embargo, es algo que debes hacer en este camino de auto-descubrimiento y crecimiento.</b>
 

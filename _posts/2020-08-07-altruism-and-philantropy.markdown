@@ -2,9 +2,11 @@
 layout: post
 title: Altruism and Philanthropy
 date: 2020-08-07 03:09:50 +0300
-img: cat-in-box.jpg
+img: cat-in-box_lowres.jpg
+imghr: cat-in-box.jpg
 tags: [Español]
 author: Annie-Vega
+type: English
 ---
 <b>I've been diving seriously into<i> "doing good" and "be a good person"</i> for a couple of year now, I think this is a... lifestyle and a way to behave that works for me. I would love to share some of those ideas and beliefs with you, I've been trying to define what does it means (for me) to do good and to be good, and debunking some myths and misconceptions about philanthropy and altruism because they are available for everyone (is not a<i> hobby</i> just available for Bill Gates and attendees to the Met Gala) and everyone can benefit from this. </b>
 

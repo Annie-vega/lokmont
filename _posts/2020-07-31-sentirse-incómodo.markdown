@@ -2,9 +2,11 @@
 layout: post
 title: Sentirse incómodo
 date: 2020-07-31 03:09:50 +0300
-img: pug.jpg
+img: pug_lowres.jpg
+imghr: pug.jpg
 tags: [Español]
 author: Annie-Vega
+type: Spanish
 ---
 <b>Es normal tratar de evitar la sensación de estar incómodo, nuestro cerebro se esfuerza mucho para evitarla y tú puedes estar cansado (yo también) de escuchar a la gente decir que<i> hay que salir de tu zona de confort</i> para tener éxito o lograr algo, pero incluso cuando yo no estoy de acuerdo con la forma en que presentan la zona de confort y el éxito (hablemos de eso después), estoy de acuerdo en que hay beneficios de retarte a ti mismo y sentirte incómodo de vez en cuando y me gustaría que reconsiderara la incomodidad en tu vida y lo intentes, pero no por el éxito o por "ser tu propio jefe", puedes hacerlo porque es una buena manera de aprender sobre ti y los demás. </b>
 

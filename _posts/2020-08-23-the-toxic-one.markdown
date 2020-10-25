@@ -2,9 +2,11 @@
 layout: post
 title: The toxic one
 date: 2020-08-23 03:09:50 +0300
-img: ballons.jpg
+img: ballons_lowres.jpg
+imghr: ballons.jpg
 tags: [English]
 author: Annie-Vega
+type: English
 ---
 **I recently made a conscious evaluation about my *dark past* and how I related to the people around me and I ended up concluding that I was a great example of what they call "the toxic one", this is something that I am not proud of and I am sure that I still have many of those toxic behaviours in my life, but as I do with all aspects of this discovery process and serious thinking, I am trying to improve it with a lot of patience and a lot of self-care, one thing at a time, one day at a time..**
 
